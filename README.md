@@ -1,5 +1,5 @@
 # CDK (Cloud Development Kit) Example
-Workshop to build a simple HTTP App with CDK
+Workshop to build a HTTP App with CDK
 
 # Why Infrastructure as code is Awesome
 - **Scalability** -  Write it once and then reuse it many times. Deploy globally and replicate horizontally, etc.
